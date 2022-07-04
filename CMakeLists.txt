@@ -20,5 +20,6 @@ add_subdirectory(pimoroni-pico)
 
 # add the project as a subdirectory after bootstrapping
 add_subdirectory(programexample)
+add_subdirectory(bichinhos)
 # add_subdirectory(<program-directory-name>) # <- add more programs like this
 
